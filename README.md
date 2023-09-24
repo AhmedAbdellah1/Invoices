@@ -81,6 +81,53 @@ For detailed installation and usage instructions, please look below steps
 
 ![screencapture-127-0-0-1-8000-Archive-2023-09-24-22_25_46](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/4b9be76d-d691-4727-9941-0312a08c1237)
 
+![screencapture-127-0-0-1-8000-invoices-report-2023-09-24-22_26_35](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/01668fa8-39f0-40da-bf17-ea3ef70045ac)
+
+![screencapture-127-0-0-1-8000-invoices-report-2023-09-24-22_26_53](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/05eb2175-32f7-4520-9081-510f8447a9ee)
+
+![screencapture-127-0-0-1-8000-customers-report-2023-09-24-22_27_11](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/18ece753-dcbc-4a71-957e-ed946be93002)
+
+
+![screencapture-127-0-0-1-8000-users-2023-09-24-22_28_21](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/c621aa66-17c6-49cb-b8f4-deb0a07dec4f)
+
+![screencapture-127-0-0-1-8000-users-2-edit-2023-09-24-22_29_09](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/a74b10cc-cd63-433f-a7aa-b34b48309874)
+
+![screencapture-127-0-0-1-8000-users-2023-09-24-22_29_31](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/d7d95d5e-00c2-4686-b86f-6303b8a2d450)
+
+![screencapture-127-0-0-1-8000-roles-2023-09-24-22_29_47](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/d7ef70a1-85a8-4581-8d7c-9ae31b7f922c)
+
+![screencapture-127-0-0-1-8000-roles-2-2023-09-24-22_30_07](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/73e46630-aacd-4846-93f9-df83a8b84371)
+
+
+![screencapture-127-0-0-1-8000-roles-2-edit-2023-09-24-22_30_26](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/bef46107-e7b2-407f-8ba2-d51c1cddbca7)
+
+![screencapture-127-0-0-1-8000-sections-2023-09-24-22_30_57](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/83dbf03a-2528-42e8-a936-a4ae648e0887)
+
+![screencapture-127-0-0-1-8000-products-2023-09-24-22_31_13](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/039db95a-ac3c-414a-831f-56d549993112)
+
+![screencapture-127-0-0-1-8000-products-2023-09-24-22_31_26](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/8e7c93b3-3c5f-43a8-95c1-8987ce759175)
+
+![screencapture-127-0-0-1-8000-products-2023-09-24-22_31_42](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/de79677c-818b-4070-b943-461c635b92c2)
+
+![screencapture-127-0-0-1-8000-sections-2023-09-24-22_32_14](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/d73d991d-9b5b-4357-8fbb-c539bbc1c4e1)
+
+![screencapture-127-0-0-1-8000-products-2023-09-24-22_32_50](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/99453a4c-3c3c-44a4-8558-64e4355abd57)
+
+![screencapture-127-0-0-1-8000-invoices-create-2023-09-24-22_33_25](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/d12393ed-008a-431b-ac50-61484aeb39b3)
+
+![screencapture-127-0-0-1-8000-invoices-create-2023-09-24-22_33_46](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/fff45133-9a88-47a6-bd1f-1680da77d07c)
+
+![screencapture-127-0-0-1-8000-Print-invoice-4-2023-09-24-22_34_33](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/ade756c6-9848-4c23-9593-49b5746b0bd8)
+
+
+![screencapture-127-0-0-1-8000-Status-show-8-2023-09-24-22_35_03](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/f1ec8712-ad1d-4392-af67-6d4abc7046e6)
+
+![screencapture-127-0-0-1-8000-edit-invoice-1-2023-09-24-22_35_24](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/cb0a22af-c7a2-45dd-a98e-cbf4758a3374)
+
+
+![screencapture-127-0-0-1-8000-home-2023-09-24-22_36_11](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/817eecb3-9a38-42e7-a305-dd73c0da04f0)
+
+
 ![screencapture-127-0-0-1-8000-Invoice-Partial-2023-09-24-22_25_59](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/52be2fb4-0769-4899-b628-e32b545b2645)
 ![Screenshot (15)](https://github.com/AhmedAbdellah1/Invoices/assets/48163868/d6416cfa-55d2-48e3-a847-418dcdb34500)
 
